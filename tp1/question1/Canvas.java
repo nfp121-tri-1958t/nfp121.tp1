@@ -139,7 +139,7 @@ public class Canvas {
         else if (colorString.equals("white")) graphic.setColor(Color.white);
         else graphic.setColor(Color.black);
     }
-
+    
     /**
      * Wait for a specified number of milliseconds before finishing. This
      * provides an easy way to specify a small delay which can be used when
